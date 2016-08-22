@@ -1,5 +1,5 @@
-FROM gliderlabs/alpine:3.3
-MAINTAINER Peter Waller <p@pwaller.net>
+FROM gliderlabs/alpine:3.4
+MAINTAINER Yann Hodique <yann.hodique@gmail.com>
 
 ## Install build dependencies
 RUN apk add --no-cache \
